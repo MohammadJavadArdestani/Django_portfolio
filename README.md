@@ -7,7 +7,5 @@ The developer provides the Model, the view and the template then just maps it to
 and Django does the magic to serve it to the user.
 
 ## how to use
-for using this project you need to add settings.py file into portfilio diroctry and create a folder and named it static 
-and add your images and resume.pdf to it or you can add your file in root diroctory and use 
-"python manage.py collectstatic " command .
+for using this project you need to add settings.py file into portfolio directory and create a folder and named it static and add your images and resume.pdf to it or you can add your file in root directory and use"python manage.py collectstatic " command.
  
